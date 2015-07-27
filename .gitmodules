@@ -1,0 +1,6 @@
+[submodule "repos/moljac-Xamarin.Auth"]
+	path = repos/moljac-Xamarin.Auth
+	url = https://github.com/moljac/Xamarin.Auth.git
+[submodule "repos/moljac-HolisticWare.Auth"]
+	path = repos/moljac-HolisticWare.Auth
+	url = https://github.com/moljac/HolisticWare.Auth.git
